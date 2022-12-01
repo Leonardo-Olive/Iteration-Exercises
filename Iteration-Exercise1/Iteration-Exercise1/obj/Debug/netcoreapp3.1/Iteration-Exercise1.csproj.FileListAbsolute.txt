@@ -1,0 +1,14 @@
+/Users/leozhitosmac/Downloads/TrueCoders/repos/Iteration-Exercises/Iteration-Exercise1/Iteration-Exercise1/bin/Debug/netcoreapp3.1/Iteration-Exercise1
+/Users/leozhitosmac/Downloads/TrueCoders/repos/Iteration-Exercises/Iteration-Exercise1/Iteration-Exercise1/bin/Debug/netcoreapp3.1/Iteration-Exercise1.deps.json
+/Users/leozhitosmac/Downloads/TrueCoders/repos/Iteration-Exercises/Iteration-Exercise1/Iteration-Exercise1/bin/Debug/netcoreapp3.1/Iteration-Exercise1.runtimeconfig.json
+/Users/leozhitosmac/Downloads/TrueCoders/repos/Iteration-Exercises/Iteration-Exercise1/Iteration-Exercise1/bin/Debug/netcoreapp3.1/Iteration-Exercise1.runtimeconfig.dev.json
+/Users/leozhitosmac/Downloads/TrueCoders/repos/Iteration-Exercises/Iteration-Exercise1/Iteration-Exercise1/bin/Debug/netcoreapp3.1/Iteration-Exercise1.dll
+/Users/leozhitosmac/Downloads/TrueCoders/repos/Iteration-Exercises/Iteration-Exercise1/Iteration-Exercise1/bin/Debug/netcoreapp3.1/Iteration-Exercise1.pdb
+/Users/leozhitosmac/Downloads/TrueCoders/repos/Iteration-Exercises/Iteration-Exercise1/Iteration-Exercise1/obj/Debug/netcoreapp3.1/Iteration-Exercise1.csproj.AssemblyReference.cache
+/Users/leozhitosmac/Downloads/TrueCoders/repos/Iteration-Exercises/Iteration-Exercise1/Iteration-Exercise1/obj/Debug/netcoreapp3.1/Iteration-Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leozhitosmac/Downloads/TrueCoders/repos/Iteration-Exercises/Iteration-Exercise1/Iteration-Exercise1/obj/Debug/netcoreapp3.1/Iteration-Exercise1.AssemblyInfoInputs.cache
+/Users/leozhitosmac/Downloads/TrueCoders/repos/Iteration-Exercises/Iteration-Exercise1/Iteration-Exercise1/obj/Debug/netcoreapp3.1/Iteration-Exercise1.AssemblyInfo.cs
+/Users/leozhitosmac/Downloads/TrueCoders/repos/Iteration-Exercises/Iteration-Exercise1/Iteration-Exercise1/obj/Debug/netcoreapp3.1/Iteration-Exercise1.csproj.CoreCompileInputs.cache
+/Users/leozhitosmac/Downloads/TrueCoders/repos/Iteration-Exercises/Iteration-Exercise1/Iteration-Exercise1/obj/Debug/netcoreapp3.1/Iteration-Exercise1.dll
+/Users/leozhitosmac/Downloads/TrueCoders/repos/Iteration-Exercises/Iteration-Exercise1/Iteration-Exercise1/obj/Debug/netcoreapp3.1/Iteration-Exercise1.pdb
+/Users/leozhitosmac/Downloads/TrueCoders/repos/Iteration-Exercises/Iteration-Exercise1/Iteration-Exercise1/obj/Debug/netcoreapp3.1/Iteration-Exercise1.genruntimeconfig.cache
